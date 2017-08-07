@@ -1,3 +1,4 @@
+Creating a new branch is quick & simple.
 dev
 checkout
 1111111
