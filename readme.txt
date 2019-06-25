@@ -5,6 +5,9 @@ checkout
 1111111
 LICENSE
 ceshi
-ceshi2
+ceshi
 haha
 branch a new is so easy
+Creating a new branch is quick AND simple.
+
+solved
